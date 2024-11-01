@@ -18,3 +18,4 @@
 https://portfolio-hs11.netlify.app/
 
 # portfolio-hs11 Proje Gifi
+![portföy](https://github.com/user-attachments/assets/fb8d4e28-4096-42a6-aced-845143e59668)
