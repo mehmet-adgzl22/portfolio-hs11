@@ -14,4 +14,7 @@
     <li>Css</li>
 </ul>
 
+# portfolio-hs11 Bağlantı Linki
+https://portfolio-hs11.netlify.app/
+
 # portfolio-hs11 Proje Gifi
